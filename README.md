@@ -1,0 +1,1 @@
+This is Amory's first git project!
